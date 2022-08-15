@@ -2,8 +2,8 @@
 function PlayButton(props) {
 
   return (
-    <button className="start-button" {...props}>
-      Begin
+    <button className="begin-button" {...props}>
+<img className="begin-icon" src="../begin.png"/>      Begin
     </button>
   );
 }
