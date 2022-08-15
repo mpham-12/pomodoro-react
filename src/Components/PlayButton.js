@@ -3,7 +3,7 @@ function PlayButton(props) {
 
   return (
     <button {...props}>
-      <img className="button-icon" src="../begin.pngit addg" />
+      <img className="button-icon" src="../begin.png" />
       Begin
     </button>
   );

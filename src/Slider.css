@@ -1,0 +1,11 @@
+.slider{
+  height: 30px;
+  border: 1px solid red;
+}
+
+.thumb{
+  background-color: red;
+  cursor: pointer;
+  width: 10px;
+  height: 50px;
+}
