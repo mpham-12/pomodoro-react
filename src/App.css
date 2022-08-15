@@ -8,10 +8,10 @@ body{
   height: 350px;
 }
 
-.begin-icon {
+.button-icon {
   width: 30px;
 }
-.begin-button{
+.button-button{
   background-color: transparent;
   border: none;
   color: white;
