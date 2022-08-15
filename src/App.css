@@ -11,7 +11,7 @@ body{
 .button-icon {
   width: 30px;
 }
-.button-button{
+button{
   background-color: transparent;
   border: none;
   color: white;
