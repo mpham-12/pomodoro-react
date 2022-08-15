@@ -31,7 +31,7 @@ function Settings() {
         max={90}
       />
 
-      <BackButton />
+      <BackButton onClick={()=>settings.setShowSettings(false)}/>
     </main>
   );
 }

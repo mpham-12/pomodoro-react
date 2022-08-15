@@ -1,6 +1,6 @@
-function BackButton(){
+function BackButton(props){
   return (
-    <button className="back">
+    <button {...props} className="back">
       <img className="button-icon " src="../../back.png" alt="" />
       Return
     </button>
