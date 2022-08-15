@@ -2,3 +2,15 @@ body{
   background-color: #2f3544;
   color: white;
 }
+
+.timer{
+  width: 350px;
+  height: 350px;
+}
+
+.play-button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  width: 100px;
+}
